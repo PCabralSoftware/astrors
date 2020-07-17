@@ -9,7 +9,7 @@ description = "Astronomy and astrophysics crate for computing with Rust."
 
 documentation = "https://docs.rs/astrors"
 
-license = "MIT OR Apache-2.0"
+license = "MIT"
 
 readme = "README.md"
 
