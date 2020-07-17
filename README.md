@@ -24,4 +24,4 @@ astrors = "*"
 
 ## License
 
-astrors is provided under the GNU GPL v2 license. See [LICENSE](LICENSE). These files may not be copied, modified, or distributed except according to those terms.
+astrors is provided under the MIT license. See [LICENSE](LICENSE). These files may not be copied, modified, or distributed except according to those terms.
