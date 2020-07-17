@@ -1,0 +1,12 @@
+[package]
+name = "astrors"
+version = "0.0.1"
+
+authors = ["Pedro Cabral <pedro@cabral.mat.br>"]
+keywords = ["astrors", "astronomy", "astrophysics", "rust"]
+
+description = "Astronomy and astrophysics crate for computing with Rust."
+
+edition = "2018"
+
+[dependencies]

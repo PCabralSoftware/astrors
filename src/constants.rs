@@ -1,0 +1,1 @@
+pub const TEST: f64 = 1.234;
